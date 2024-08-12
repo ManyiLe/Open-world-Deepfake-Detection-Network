@@ -1,1 +1,1 @@
-# -Open-world-Deepfake-Detection-Networ-ODDN-
+# Open-world-Deepfake-Detection-Networ(ODDN)
