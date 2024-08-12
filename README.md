@@ -7,4 +7,4 @@
 our model use unpair data in oline social network(OSN), gradient reverse(RL), and gradient alignment(PCGrad) to promote performance. Results show that our method is competitive and achieve state of the art. 
 
 if you get inspiration from our method, please give us a star⭐，it will be very kind of you🥰!  
-Also if you have any question about our model, please send email:string1313@qq.com    
+Also if you have any question about our model, please send email:xxxxxxx@xxxx.xx  
