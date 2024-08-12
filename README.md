@@ -1,5 +1,5 @@
 # Open-world-Deepfake-Detection-Networ(ODDN)
-<img width="350" alt="1723450312316" src="https://github.com/user-attachments/assets/44461f22-304a-45d1-804b-197a6c2fa154">
+<img width="350" alt="1723450312316" src="https://github.com/user-attachments/assets/44461f22-304a-45d1-804b-197a6c2fa154", style="display: block; margin-left: auto; margin-right: auto;">
  # 灾难医疗信息加密传输  
 这个项目是大学生创新训练项目，主要实现灾难医疗系统传输加密问题，我们采用区块链解决。测试中使用的私链由**Ganache**个性化生成，而对于区块链的交互，我们**同时使用java版本的web3j(控制数据的上传、查询及验证)和
 javaSript版本的web3j(自动上传新的智能合约)**。在项目中，使用部署在腾讯云轻量应用型服务器上的MariaDB(Docker)作为数据库，来存储经过哈希加密的用户密码、虚拟的用户名和邮箱。  
